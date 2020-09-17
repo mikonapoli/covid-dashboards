@@ -1,5 +1,4 @@
 requests
-tempfile
 pandas
 matplotlib
 numpy
