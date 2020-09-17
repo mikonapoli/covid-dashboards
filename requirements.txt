@@ -1,3 +1,6 @@
+pandas
+matplotlib
+numpy
 voila
 voila-material
 ipympl
