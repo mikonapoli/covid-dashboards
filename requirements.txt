@@ -4,3 +4,4 @@ matplotlib
 numpy
 voila
 voila-material
+ipywidgets
